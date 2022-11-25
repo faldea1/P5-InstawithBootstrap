@@ -1,0 +1,15 @@
+#insta{
+    font-weight:600;
+}
+
+.col-form-label{
+    font-weight: bold;
+}
+
+#exampleModalLabel{
+    font-weight: bold;
+}
+
+.closex:active{
+    color: blue;
+}
